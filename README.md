@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋, I'm K Manish</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://kmanish.me/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" width="40" height="40"/>
-  </a>
-  <a href="mailto:kgpmanish527@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="email" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/k-manish527/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,5 +45,19 @@
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
+</p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://kmanish.me/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" width="40" height="40"/>
+  </a>
+  <a href="mailto:kgpmanish527@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/k-manish527/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+
 </p>
 
